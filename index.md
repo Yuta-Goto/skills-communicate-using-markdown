@@ -13,3 +13,9 @@ for(int i=0;i<N;i++){
   cout<<"hello"<<endl;
 }
 ```
+
+
+## ToDo List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
